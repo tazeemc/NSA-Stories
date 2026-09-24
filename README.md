@@ -4,11 +4,6 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 
 Date | Article/Document | Publication
 ---|---------|-------------
-April 2, 2015 | [Britain Used Spy Team to Shape Latin American Public Opinion on Falklands](https://firstlook.org/theintercept/2015/04/02/gchq-argentina-falklands/) | `Intercept`
-April 2, 2015 | [NSA Extended Enterprise Report – July 2008](https://firstlook.org/theintercept/document/2015/04/02/nsa-extended-enterprise/) | `Intercept`
-April 2, 2015 | [Behavioural Science Support for JTRIG](https://firstlook.org/theintercept/document/2015/04/02/behavioural/) | `Intercept`
-April 2, 2015 | [Op QUITO – JTRIG Wiki Highlights – August 2009](https://firstlook.org/theintercept/document/2015/04/02/jtrig-wiki-highlights-august-2009/) | `Intercept`
-April 2, 2015 | [GCHQ Mission Driven Access Workshop](https://firstlook.org/theintercept/document/2015/04/02/gchq-mission-driven-access-workshop/) | `Intercept`
 April 2, 2015 | [NAC 2Q 2011 Business Review](https://firstlook.org/theintercept/document/2015/04/02/nac-2q-2011-business-review/) | `Intercept`
 April 2, 2015 | [Comet News – March 2010](https://firstlook.org/theintercept/document/2015/04/02/comet-news-march-2010/) | `Intercept`
 March 23, 2015 | [Communication Security Establishment's cyberwarfare toolbox revealed](http://www.cbc.ca/news/canada/communication-security-establishment-s-cyberwarfare-toolbox-revealed-1.3002978) | `CBC`
