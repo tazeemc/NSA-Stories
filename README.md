@@ -4,8 +4,6 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 
 Date | Article/Document | Publication
 ---|---------|-------------
-April 2, 2015 | [NAC 2Q 2011 Business Review](https://firstlook.org/theintercept/document/2015/04/02/nac-2q-2011-business-review/) | `Intercept`
-April 2, 2015 | [Comet News – March 2010](https://firstlook.org/theintercept/document/2015/04/02/comet-news-march-2010/) | `Intercept`
 March 23, 2015 | [Communication Security Establishment's cyberwarfare toolbox revealed](http://www.cbc.ca/news/canada/communication-security-establishment-s-cyberwarfare-toolbox-revealed-1.3002978) | `CBC`
 March 23, 2015 | [CASCADE: Joint Cyber Sensor Architecture](https://s3.amazonaws.com/s3.documentcloud.org/documents/1690204/cascade-2011.pdf) | `CBC`
 March 23, 2015 | [NSA memo on intelligence relationship with CSE](http://s3.documentcloud.org/documents/1691676/odni3april2013-canada-v1-0.pdf) | `CBC`
