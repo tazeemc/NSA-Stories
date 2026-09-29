@@ -11,7 +11,6 @@ March 23, 2015 | [CSEC Cyber Threat Capabilities](http://www.documentcloud.org/d
 March 23, 2015 | [Cyber Threat Detection](http://www.documentcloud.org/documents/1690222/doc-5-cyber-csec-sdf-gchq-nov2009.pdf) | `CBC`
 March 23, 2015 | [CSEC SIGINT Cyber Discovery ](http://www.documentcloud.org/documents/1690221/doc-4-csec-sigint-discocon-2010.pdf) | `CBC`
 March 23, 2015 | [CSE response to CBC's questions](http://s3.documentcloud.org/documents/1690243/csestatements.pdf) | `CBC`
-March 11, 2015 | [NZ's spy reach stretches across globe](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11415172) | `NZ Herald`
 March 11, 2015 | [NSA Intelligence Relationship with New Zealand](https://s3.amazonaws.com/s3.documentcloud.org/documents/1683920/nzodnipaperapr13-v1-0-pdf-redacted.pdf) | `NZ Herald`
 March 11, 2015 | [SIGINT Development Forum Minutes - June 2009](https://s3.amazonaws.com/s3.documentcloud.org/documents/1683921/sdf-mins-09-redacted.pdf) | `NZ Herald`
 March 11, 2015 | [SUSLOW Monthly Report for March 2013](https://s3.amazonaws.com/s3.documentcloud.org/documents/1684763/suslow-march-2013.pdf) | `NZ Herald`
